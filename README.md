@@ -10,8 +10,6 @@ Hi there 👋
 
 💬 Ask me about machine learning, data science, and AI.
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I enjoy exploring new trends in AI and contributing to the open-source community.
 
 Thank you for visiting my GitHub profile! Let's connect and collaborate on exciting projects.
